@@ -1,0 +1,144 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    float: left;
+    background-color: #212121;
+}
+
+.pp {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    padding: 15px;
+}
+.fa-youtube{
+    color: #FF0000
+}
+.fa-microphone{
+    color: #fff;
+    padding: 18px;
+    margin: 5px;
+    background-color: #181818;
+    border-radius: 50%;
+}
+.fa-bell{
+    color: #fff;
+    margin: 10px;
+}
+.fa-square{
+    color: #fff;
+    margin: 10px;
+}
+.fa-video-slash{
+    color: #fff;
+    margin: 10px;
+}
+.fa-bars{
+    color: #fff;
+    padding-right: 30px;
+}
+.fa-magnifying-glass{
+    color: #fff;
+    background-color:#373737;
+    padding:17px;
+    margin:0px;
+    
+}
+
+.logo{
+    color: #fff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: -1px;
+}
+
+.main{
+    display: flex;
+    height: 35px;
+    padding-block: 15px;
+    padding-inline: 30px;
+    background-color: #202020;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+.main-inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+input{
+    width: 500px;
+    height: 33px;
+    background-color: #121212;
+    border-top: 2px solid #303030;
+    border-bottom: 2px solid #303030;
+    border-left:2px solid #303030;
+    border-right: none;
+}
+
+::placeholder{
+    font-size: larger;
+    padding-left: 5px;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/*left*/
+.left{
+    padding-left: 30px;
+    background-color: #212121;
+    padding: 20px;
+}
+
+.white {
+    color:#fff
+}
+h3{
+    color: #fff;
+    padding: 10px;
+    text-align: start;
+}
+.container { 
+    display: grid;
+    grid-template-columns:  auto auto auto auto;
+    padding-left: 50px;
+    background-color: #181818;
+    align-content: center;
+  }
+
+.video{
+    background-color: #181818;
+    width:33%;
+    justify-content: center;
+    padding: 10px;
+    padding-bottom: 25px;
+}
+aside{
+    float: left;
+}
+
+h5{
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.title{
+    
+    display: flex;
+    justify-items: flex-start;
+    width: 250px;
+    height: 30px;
+    align-items: flex-start;
+}
+.subtitle{
+    color: #AAAAAA;
+    width: 200px;
+    padding-left: 60px;
+    display: block;
+    block-size: 0;
+    font-size: small;
+}
