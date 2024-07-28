@@ -5,18 +5,18 @@ I am a passionate software engineering student, constantly exploring and learnin
 ## 🔧 Skills
 
 ### Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,js)]
 
 ### Web Development:
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind)]
 
 ### Database Management: SQL, SQL Server Management Studio
 
 ### Version Control: Git, GitHub
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github)]
 
 ### Tools & Technologies:
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,idea,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,idea,nodejs)]
 
 ### Other Skills:
 - Algorithms
@@ -28,16 +28,16 @@ I am a passionate software engineering student, constantly exploring and learnin
 
 ## 🛠️ Projects
 
-### Car Traffic Game
+### 🚗 Car Traffic Game 
 
 - A console-based traffic game implemented in C using the ncurses library.
 Features include traffic management, collision detection, and game state saving/loading.
-Repository Link
+- Repository Link
 
-### Restaurant Management Software
+### 🍽️ Restaurant Management Software 
 
 - Software for managing restaurant operations including orders, tables, and payments.
-Repository Link
+- Repository Link
 
 ## 🌱 Interests
 - Software development methodologies
