@@ -2,7 +2,8 @@
 
 I am a passionate software engineering student, constantly exploring and learning new technologies and programming concepts. I thrive on solving complex problems and building efficient, scalable solutions.
 
-🔧 Skills
+## 🔧 Skills
+
 ### Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,js)](https://skillicons.dev)
 
@@ -18,12 +19,12 @@ I am a passionate software engineering student, constantly exploring and learnin
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,idea,nodejs)](https://skillicons.dev)
 
 ### Other Skills:
--Algorithms
--Data Structures
+- Algorithms
+- Data Structures
 
 ## 📚 What I'm Learning
--Advanced algorithms and data structures
--Front-end development with React
+- Advanced algorithms and data structures
+- Front-end development with React
 
 ## 🛠️ Projects
 
@@ -39,11 +40,11 @@ Repository Link
 Repository Link
 
 ## 🌱 Interests
--Software development methodologies
--Web development
--Artificial Intelligence
--Open-source contributions
+- Software development methodologies
+- Web development
+- Artificial Intelligence
+- Open-source contributions
 
 ### 📫 How to Reach Me
 
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://www.linkedin.com/in/aysebozkurt47/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aysebozkurt47/)
