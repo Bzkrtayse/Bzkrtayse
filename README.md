@@ -5,10 +5,10 @@ I am a passionate software engineering student, constantly exploring and learnin
 ## 🔧 Skills
 
 ### Programming Languages:
-![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,js)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,dart)
 
 ### Web Development:
-![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind)
+![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,flutter)
 
 ### Database Management: SQL, SQL Server Management Studio
 
