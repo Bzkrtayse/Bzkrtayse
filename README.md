@@ -8,7 +8,10 @@ I am a passionate software engineering student, constantly exploring and learnin
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,dart)
 
 ### Web Development:
-![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,flutter)
+![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind)
+
+### Mobile Development:
+![My Skills](https://skillicons.dev/icons?i=flutter)
 
 ### Database Management: SQL, SQL Server Management Studio
 
@@ -16,7 +19,7 @@ I am a passionate software engineering student, constantly exploring and learnin
 ![My Skills](https://skillicons.dev/icons?i=git,github)
 
 ### Tools & Technologies:
-![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,idea,nodejs)
+![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,idea,nodejs,androidstudio)
 
 ### Other Skills:
 - Algorithms
